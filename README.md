@@ -2,13 +2,13 @@
     
 ```javascript
 ​
-from __future__ import annotations
-
 import json
 from dataclasses import asdict, dataclass
 
 
-@dataclass
+personalCard() {
+    "name" : "Alperen"
+    }
 class Arsenal:
     languages: tuple[str, ...] = ("Python", "JS", "Go")
     databases: tuple[str, ...] = ("SQLite", "PostgreSQL", "DynamoDB", "Redis")
