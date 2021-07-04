@@ -19,7 +19,7 @@ import dataclasses from "@"
         social : {
             
             instagram : "mchtter",
-            twitter : "mchtter"
+            twitter : "mchtter",
             linkedin : "mchtter"
         },
     
