@@ -6,15 +6,34 @@ import json
 import dataclasses from "@"
 
 
-    export default const aboutMe {
+    const aboutMe = {
+    
+        contact : {
+    
+            mail : "mchtter@gmail.com",
+            phone : 90 530 *** ** **,
+            website : "mchtter.dev"
+    
+        },
+        
+        social : {
+            
+            instagram : "mchtter",
+            twitter : "mchtter"
+            linkedin : "mchtter"
+        },
+    
+        skills : {
+    
+            language : ["javascript", "html", "css", "reactjs", "python"],
+            
+    
+        }
     
     
     }
     
-    
-aboutMe : function () => {
-    "name" : "Alperen"
-    }
+
     
     
 class Arsenal:
