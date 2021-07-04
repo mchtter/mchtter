@@ -20,7 +20,7 @@ class Arsenal:
 
 
 arsenal = Arsenal()
-print(arsenal.jsonify())
+console.log(arsenal.jsonify())
 ​
 ```
 </h3>
