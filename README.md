@@ -1,6 +1,6 @@
 <h3>
     
-```typescript
+```javascript
 ​
 import json
 import dataclasses from "@"
