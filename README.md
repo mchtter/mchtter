@@ -10,9 +10,9 @@ import dataclasses from "@"
     
         contact : {
     
-            mail : "mchtter@gmail.com",
+            mail : "root@mucahit.dev",
             phone : 90 530 *** ** **,
-            website : "mchtter.dev"
+            website : "mucahit.dev"
     
         },
         
